@@ -19,6 +19,8 @@ public class Annotationspractice {
 
 
 	WebDriver driver;  //global variable
+//It will work according suites then method and tests
+//git commit change has done
 	@BeforeSuite
 	
 	public void beforeSuit()
